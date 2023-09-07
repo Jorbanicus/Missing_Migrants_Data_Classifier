@@ -1,7 +1,7 @@
 Missing Migrants Classifier  
 This project aims to classify and predict the number of missing or dead migrants based on various features related to migration incidents. It utilizes machine learning techniques to build and evaluate different classification models.  
 
-This was also referenced off a similar project, which was extremely helpful: 
+This was also referenced off a similar project, which was extremely helpful:  
 https://github.com/mukulsinghal001/lead-scoring-model-python/blob/main/Lead%20Scoring%20Classification%20Model%20Diagnosis%20with%20%20Probability%20Calibration%20%26%20ROC_AUC%20%2B%20PR%20Plot.ipynb  
 
 ==================================================  
